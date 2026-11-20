@@ -8,7 +8,7 @@
 <a href="#" target="_blank">
   <img align="left" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/Deshan-N-Gimhara" target="_blank">
   <img align="left" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" alt="page views" height="25" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers" target="_blank">
@@ -79,9 +79,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=blue-green)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deshan-N-Gimhara&show_icons=true&theme=transparent" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshan-N-Gimhara&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 <hr>
