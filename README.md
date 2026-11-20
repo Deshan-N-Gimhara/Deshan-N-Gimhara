@@ -1,18 +1,14 @@
 ### Hi there, I'm Deshan 👋
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/deshan-n-gimhara/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
 </a>
-<a href="#" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
-</a>
-<a href="#" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-</a>
+
+
 <a href="https://github.com/Deshan-N-Gimhara" target="_blank">
-  <img align="left" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" alt="page views" height="25" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=Deshan-N-Gimhara&style=for-the-badge" alt="page views" height="25" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers" target="_blank">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=green&logo=github&style=for-the-badge" height="25" />
+<a href="https://github.com/Deshan-N-Gimhara?tab=followers" target="_blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Deshan-N-Gimhara?color=green&logo=github&style=for-the-badge" height="25" />
 </a>
 
 <br/>
