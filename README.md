@@ -1,44 +1,94 @@
-<h1 align="center">Hi there, I'm Deshan 👋</h1>
-<h3 align="center">Full-Stack Developer | Sri Lanka 🇱🇰</h3>
+### Hi there, I'm Deshan 👋
+<a href="#" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="25" />
+</a>
+<a href="#" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img align="left" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" alt="page views" height="25" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers" target="_blank">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=green&logo=github&style=for-the-badge" height="25" />
+</a>
 
 <br/>
+<hr>
 
-## 🚀 About Me
+## 👨‍💻 About Me:
 
-- 🌱 Full-Stack Developer with **~2 years of professional experience**, progressing from Intern to **Associate Software Engineer**
+#### I am a Full-Stack & Mobile Software Engineer from Sri Lanka 🇱🇰 with a keen eye for detail, specializing in scalable web platforms, cross-platform mobile applications, and AI-powered systems—bringing strong analytical and troubleshooting skills to engineer reliable, responsive solutions.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+- 🌱 Full-Stack & Mobile Developer with **~2+ years of professional experience**, progressing from Intern / Trainee Software Engineer to **Software Engineer** across enterprise SaaS and web/mobile applications
 - 🤖 Experienced in building **AI-powered platforms**, including **LLM integration** and **RAG (Retrieval-Augmented Generation) pipelines**
-- 🎓 B.Sc. (Hons.) in Applied Sciences — **Mathematics & Computer Science**, University of Peradeniya
+- ⚙️ Focused on full-stack web and mobile architectures (**Next.js, React, React Native, Node.js/NestJS, FastAPI, PostgreSQL & Prisma**), database performance tuning, and clean UI/UX
 - ⚡ Fast learner and highly adaptable — comfortable picking up new stacks and domains quickly
+- 💬 Ask me about full-stack architecture, mobile development, or AI integrations — happy to help!
 
 <br/>
+<hr>
 
-## 🛠️ Tech Stack
+### 🎓 Education:
 
-**Languages & Frameworks**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+- 🎓 **B.Sc. (Hons.) in Applied Sciences — Mathematics & Computer Science**  
+  *University of Peradeniya*
+- 💻 **Computing & Software Engineering**  
+  *University of Colombo School of Computing (UCSC)*
+- 🏫 **Secondary Education**  
+  *Ananda College, Colombo*
 
-**AI / ML**
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=flat&logo=openai&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=flat)
+<hr>
 
-<br/>
+### 🛠️ Languages and Tools:
 
-## 🎓 Education
+<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React & React Native" title="React & React Native" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="Expo" title="Expo" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" title="Express.js" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma ORM" title="Prisma ORM" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />
+</p>
 
-**B.Sc. (Hons.) in Applied Sciences — Mathematics & Computer Science**
-University of Peradeniya
+<p>
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-4B0082?style=for-the-badge" alt="RAG Pipelines" />
+</p>
 
-<br/>
+<hr>
 
-## 📫 Connect With Me
+### 📈 My GitHub Stats:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=blue-green)](https://git.io/streak-stats)
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
 
-<p align="center"><i>⭐️ Thanks for stopping by!</i></p>
+<hr>
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
+<br>
+<br>
+
+<img src="https://imgur.com/rilHVxA.png"/>
