@@ -72,10 +72,10 @@
 
 ### 📈 My GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deshan-N-Gimhara&theme=blue-green)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deshan-N-Gimhara&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deshan-N-Gimhara&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshan-N-Gimhara&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
