@@ -18,7 +18,7 @@
 
 #### I am a Full-Stack & Mobile Software Engineer from Sri Lanka 🇱🇰 with a keen eye for detail, specializing in scalable web platforms, cross-platform mobile applications, and AI-powered systems—bringing strong analytical and troubleshooting skills to engineer reliable, responsive solutions.
 
-<img align="right" alt="GIF" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="right" alt="GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🌱 Full-Stack & Mobile Developer with **~2+ years of professional experience**, progressing from Intern / Trainee Software Engineer to **Software Engineer** across enterprise SaaS and web/mobile applications
 - 🤖 Experienced in building **AI-powered platforms**, including **LLM integration** and **RAG (Retrieval-Augmented Generation) pipelines**
